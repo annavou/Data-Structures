@@ -1,5 +1,4 @@
 # Data Structures Project in C++
-***
 
 A team-working project for the "Data Structures" course at Aristotle University of Thessaloniki.
 
